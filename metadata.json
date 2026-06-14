@@ -1,0 +1,6 @@
+{
+  "name": "PDF OCR & Document Merger",
+  "description": "OCR PDF documents, parse Word manuscript drafts, intelligently merge them using AI, and export the polished final draft to Google Docs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
